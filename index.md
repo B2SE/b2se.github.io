@@ -1,7 +1,6 @@
 ## 明智教育
 
-澳洲墨尔本地区一对一辅导
-You can use the [editor on GitHub](https://github.com/B2SE/b2se.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+澳洲墨尔本地区一对一辅导You can use the [editor on GitHub](https://github.com/B2SE/b2se.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
