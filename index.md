@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 明智教育
 
 You can use the [editor on GitHub](https://github.com/B2SE/b2se.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
